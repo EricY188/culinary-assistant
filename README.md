@@ -24,4 +24,4 @@ A simple Streamlit application that uses OpenAI's APIs for:
 1. Clone or download the repository to your local machine.
 2. Install the required Python packages:
    ```bash
-   pip install -r requirements.txt
+   pip install streamlit openai
