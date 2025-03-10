@@ -70,7 +70,8 @@ A simple Streamlit application that uses OpenAI's APIs to:
 Here are some placeholder images to illustrate the UI. Replace them with your actual screenshots once you have them:
 
 ### 1. Main Page
-![Main UI](./images/main_ui_example.png "Main UI screenshot")
+![Main UI](./images/main_ui_example.png "Main UI screenshot")![Uploading Screenshot 2025-03-09 at 10.45.23 PM.png…]()
+
 
 ### 2. Recipe Generation
 ![Recipe Generation](./images/recipe_generation_example.png "Recipe Generation screenshot")
