@@ -1,5 +1,3 @@
-# culinary-assistant
-use streamlit and gpt API to create a personal culinary-assistant
 # Culinary Assistant
 
 A simple Streamlit application that uses OpenAI's APIs for:
