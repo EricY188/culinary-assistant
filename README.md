@@ -76,16 +76,19 @@ Here are some placeholder images to illustrate the UI. Replace them with your ac
 ### 2. Recipe Generation
 <img width="855" alt="Image" src="https://github.com/user-attachments/assets/17320db6-16cf-4a7e-bda2-69b73f4791e6" />
 
+<img width="892" alt="Image" src="https://github.com/user-attachments/assets/b9f5e9de-9fef-4098-bd56-26dba4311c7f" />
+
 ### 3. Image Generation
-![Image Generation](./images/image_generation_example.png "Image Generation screenshot")
+
+<img width="852" alt="Image" src="https://github.com/user-attachments/assets/96e80d7e-15bb-4cf5-861b-dc6c9ca60d59" />
 
 ### 4. Conversational Chat
-![Chat Interface](./images/chat_interface_example.png "Chat Interface screenshot")
+
+<img width="1283" alt="Image" src="https://github.com/user-attachments/assets/1efc3df5-9346-4e79-8992-f7adfbc02d95" />
+
+<img width="859" alt="Image" src="https://github.com/user-attachments/assets/3376d445-1d81-42b2-9eed-e2d3686bb957" />
 
 <sup>_Create an `images` folder in your repository and place actual screenshots there. Update these file paths accordingly._</sup>
 
 <br />
 
-## Project Structure
-
-Below is a minimal overview of the repository contents:
