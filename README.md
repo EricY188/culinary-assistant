@@ -46,6 +46,5 @@ Here are some placeholder images to illustrate the UI. Replace them with your ac
 
 <img width="1283" alt="Image" src="https://github.com/user-attachments/assets/1efc3df5-9346-4e79-8992-f7adfbc02d95" />
 
-<img width="859" alt="Image" src="https://github.com/user-attachments/assets/3376d445-1d81-42b2-9eed-e2d3686bb957" />
 
 
