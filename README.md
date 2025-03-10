@@ -23,47 +23,7 @@ A simple Streamlit application that uses OpenAI's APIs for:
 2. Install the required Python packages:
    ```bash
    pip install streamlit openai
-# Culinary Assistant
 
-A simple Streamlit application that uses OpenAI's APIs to:
-- Generate Chinese recipes (with **Single-shot** or **Few-shot** prompts)
-- Create dish images via [DALL·E](https://openai.com/product/dall-e-2/)
-- Provide a conversational chat interface that preserves context in `st.session_state`
-
-<br />
-
-## Table of Contents
-
-- [Features Overview](#features-overview)
-- [Demo / Screenshots](#demo--screenshots)
-- [Project Structure](#project-structure)
-- [Installation](#installation)
-- [Usage](#usage)
-- [OpenAI API Key Configuration](#openai-api-key-configuration)
-- [How It Works](#how-it-works)
-  - [Single-shot vs Few-shot Prompts](#single-shot-vs-few-shot-prompts)
-  - [Chat with Memory](#chat-with-memory)
-  - [Text-to-Image Generation](#text-to-image-generation)
-- [Deployment](#deployment)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
-<br />
-
-## Features Overview
-
-1. **Recipe Generation**  
-   - **Single-shot Prompt**: Generates a quick recipe without multiple examples.  
-   - **Few-shot Prompt**: Provides detailed, example-based recipes.
-
-2. **Image Generation**  
-   - Generates images of your dish idea using OpenAI’s DALL·E endpoint.  
-
-3. **Conversational Chat**  
-   - Retains conversation history and context in `st.session_state`, allowing for a natural, ongoing conversation.  
-
-<br />
 
 ## Demo / Screenshots
 
@@ -88,7 +48,4 @@ Here are some placeholder images to illustrate the UI. Replace them with your ac
 
 <img width="859" alt="Image" src="https://github.com/user-attachments/assets/3376d445-1d81-42b2-9eed-e2d3686bb957" />
 
-<sup>_Create an `images` folder in your repository and place actual screenshots there. Update these file paths accordingly._</sup>
-
-<br />
 
