@@ -74,7 +74,7 @@ Here are some placeholder images to illustrate the UI. Replace them with your ac
 
 
 ### 2. Recipe Generation
-![Recipe Generation](./images/recipe_generation_example.png "Recipe Generation screenshot")
+<img width="855" alt="Image" src="https://github.com/user-attachments/assets/17320db6-16cf-4a7e-bda2-69b73f4791e6" />
 
 ### 3. Image Generation
 ![Image Generation](./images/image_generation_example.png "Image Generation screenshot")
